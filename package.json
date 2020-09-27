@@ -1,0 +1,27 @@
+{
+  "name": "web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thientran98qb/Nodejs.git"
+  },
+  "keywords": [
+    "nodejs",
+    "learnnodejs"
+  ],
+  "author": "TranThien",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thientran98qb/Nodejs/issues"
+  },
+  "homepage": "https://github.com/thientran98qb/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
